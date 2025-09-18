@@ -1,10 +1,8 @@
-﻿namespace JsonAnalyzzzer
+﻿namespace Nexai.Kaonashi.Dialog
 {
     using Democrite.Framework.Builders;
     using Democrite.Framework.Core.Abstractions;
-    using JsonAnalyzzzer.AgentCollector;
-    using JsonAnalyzzzer.AgentInspector;
-    using JsonAnalyzzzer.AgentStorage;
+
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.Extensions.DependencyInjection;
     internal class Program
